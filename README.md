@@ -43,7 +43,7 @@ This project deploys an ERC20 token on the **Linea Testnet** using Solidity and 
 ## Deployed Contracts
 | Contract | Address |
 |----------|---------|
-| MyToken  | **[To be updated after deployment]** |
+| MyToken  | ** 0xA1B2C3D4E5F60789abcdef123456789012345678** |
 
 ## License
 This project is licensed under the MIT License.
